@@ -17,6 +17,18 @@
       "model": "Land Rover Range Rover Velar",
       "color": "Branco",
       "price": 377.38
+    },
+    {
+      "model": "Gol",
+      "color": "Prata",
+      "price": 25,
+      "id": 4
+    },
+    {
+      "model": "Ford Ka",
+      "color": "Red",
+      "price": 20,
+      "id": 5
     }
   ]
 }
